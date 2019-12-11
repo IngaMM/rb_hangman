@@ -1,0 +1,9 @@
+---
+!ruby/object:Game
+secret_word: easterner
+secret_word_dashes: e_s_e__e_
+game_over: false
+wrong_guesses_left: 5
+letters_not_included:
+  - y
+  - b
